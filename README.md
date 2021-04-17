@@ -3,7 +3,7 @@ CSUDH Graduate AWS SIEM Project
 
 # CYB584 Social: (Final Class Project)
 
-# **Social Net** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pXGj83jifZBh4wOIVmD1EDnPfkZgO33KLDXjqh5QeQv4hTdS&usqp=CAU)
+# **Social Net** ![CSUDH](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pXGj83jifZBh4wOIVmD1EDnPfkZgO33KLDXjqh5QeQv4hTdS&usqp=CAU)
 
 
 							by
@@ -12,7 +12,14 @@ CSUDH Graduate AWS SIEM Project
 
 
 # Class Project Description:
-The primary objective of our project is to showcase our web application "SOCIAL NET" while using software management software (Trello). The team decided on building this application using python, flask, and sql to showcase crud operations.
+
+SIEM User & Entity Behavior Analytics (UEBA) uses machine learning models on open choice big data to detect unknown threats early in the kill chain. PROWLER and SIEMs provide the most realistically effective approach to comprehensively manage and monitor user and entity centric risks. This can help quickly identify anomalous activity, thereby maximizing timely incident or automated risk response. This use case is what makes the solution extensible and valuable. It focuses on the detection of risks and threats beyond the capabilities of signatures, rules and patterns. The following infrastructure delivers actionable intelligence for security teams with low false positives.
+
+Prowler is a command line tool that helps you with AWS security assessment, auditing, hardening and incident response.
+
+It follows guidelines of the CIS Amazon Web Services Foundations Benchmark (49 checks) and has more than 100 additional checks including related to GDPR, HIPAA, PCI-DSS, ISO-27001, FFIEC, SOC2 and others.
+
+
 
 
 # Objectives:
